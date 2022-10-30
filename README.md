@@ -1,2 +1,2 @@
 # Coffee-Dataset-data-analysis
-Data pre-processing (cleaning), statistical plotting, and machine learning on a public dataset of retail coffee 
+Data pre-processing (cleaning), statistical plotting, and machine learning on a public dataset of retail coffee @ [Kaggle](https://www.kaggle.com/datasets/a27fcd650722d16b078b5c4160242413865a4ee8897071dd24e7fdc180f328e3). Each process is carried out in a Jupyter Notebook in its own directory. 
