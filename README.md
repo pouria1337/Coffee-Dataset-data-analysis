@@ -8,3 +8,9 @@ Data pre-processing (cleaning), statistical plotting, and machine learning on a 
 | Precision   |                 0.27 |            0.53 |  0.29 |         0.48 |            0    |
 | Recall      |                 0.24 |            0.58 |  0.29 |         0.53 |            0    |
 | F1-accuracy |                 0.34 |            0.52 |  0.3  |         0.48 |            0    |
+
+Below I have depicted the Decision Tree:
+
+As it can be observed, each cell has as its first line one of the three features. By following the constraints set on each cell, user can determine the roast type of a coffee product with a 76% accuracy.
+
+![Alt text](Machine-learning%20(Classification)/DTree.png)
